@@ -1,0 +1,8 @@
+blockchainid,blockid,productid,ProductName,Plastic_weight,Lead_weight,year,from,to
+0,0,0,iPhone XR,68,13,2018,producer1,retailer1
+1,0,1,Apple iPhone 4,48,9,2018,producer1,retailer1
+2,0,2,Apple iPhone 7,48,9,2019,producer1,retailer1
+3,0,3,Apple iPhone 4S,49,9,2019,producer1,retailer1
+4,0,4,Apple iPhone 6S,50,9,2020,producer1,retailer1
+5,0,5,Apple iPhone 8,52,10,2020,producer1,retailer1
+6,0,6,Apple iPhone 11,68,13,2020,producer1,retailer1

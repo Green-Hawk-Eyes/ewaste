@@ -1,0 +1,4 @@
+Applicance(VARCHAR),Average Weight(in Kg)(NUMBER),Percentage Copper(NUMBER),Percentage Plastic (NUMBER),Percentage Glass(NUMBER),Percentage Iron(NUMBER),Percentage Steel(NUMBER),Percentage Zinc(NUMBER),Percentage Other Metal(NUMBER),Copper(Carbon emitted in grms in Production),Plastic(Carbon emitted in grms in Production),Glass(Carbon emitted in grms in Production),Iron(Carbon emitted in grms in Production),Steel(Carbon emitted in grms in Production),Zinc(Carbon emitted in grms in Production),Other Metals(Carbon emitted in grms in Production),Total Carbon Emmsion
+Television,7,3,22,50,1,11,0,0,37.8,4000,2000,129.5,1400,0,0,7567.3
+Computer,15,6,30,37,0,17.16,1,8.84,2500,11700,3050,0,4761,4500,0,26511
+Mobile,0.2,15,47,0,3,0,0,10,244.4,5.4,0,11.1,0,0,10,270.9
